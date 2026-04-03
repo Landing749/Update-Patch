@@ -1,8 +1,8 @@
 {
-  "version": "0.0.0",
-  "exe_name": "",
-  "download_url": "",
-  "notes": "Initial placeholder \u2014 publish a real version to replace this.",
-  "published_at": "2026-04-03T14:27:15.692724",
+  "version": "3.5.9",
+  "exe_name": "ATSYS-PV-3.5.9.zip",
+  "download_url": "https://github.com/owner/repo/releases/download/v3.5.9/ATSYS.zip",
+  "notes": "Added Better Update Splash Screen and Fixed few bugs",
+  "published_at": "2026-04-03T15:32:22.846499",
   "published_by": "JOLLIBEE"
 }
