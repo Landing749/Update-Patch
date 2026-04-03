@@ -1,8 +1,8 @@
 {
-  "version": "3.5.9",
+  "version": "3.5.10",
   "exe_name": "ATSYS-PV-3.5.9.zip",
-  "download_url": "https://github.com/owner/repo/releases/download/v3.5.9/ATSYS.zip",
-  "notes": "Added Better Update Splash Screen and Fixed few bugs",
-  "published_at": "2026-04-03T15:32:22.846499",
+  "download_url": "https://github.com/Landing749/Update-Patch/releases/download/3.5.10/ATSYS-PV-3.5.9.zip",
+  "notes": "Smoothened Scrolling on settings tab and improved logic",
+  "published_at": "2026-04-03T22:34:18.950951",
   "published_by": "JOLLIBEE"
 }
