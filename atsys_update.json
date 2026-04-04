@@ -1,8 +1,8 @@
 {
-  "version": "3.5.10",
-  "exe_name": "ATSYS-PV-3.5.9.zip",
-  "download_url": "https://github.com/Landing749/Update-Patch/releases/download/v3.5.10/ATSYS-PV-3.5.9.zip",
-  "notes": "Smoothened Scrolling And Better Attendance Logic",
-  "published_at": "2026-04-03T22:53:25.316015",
+  "version": "3.6.0",
+  "exe_name": "ATSYS-PV-3.6.0.zip",
+  "download_url": "https://github.com/Landing749/Update-Patch/releases/download/v3.6.0/ATSYS-PV-3.6.0.zip",
+  "notes": "## \ud83d\udce2 ATSYS Attendance System \u2014 Update v3.6.0\n\n### \ud83d\ude80 What\u2019s New\n- **Update Progress Splash Screen**\n  - A new dedicated splash screen now appears during updates\n  - Displays a **live progress indicator** so users know the system is working\n  - Prevents confusion during the previously silent 15\u201330 second update window\n\n- **Version Transition Display**\n  - Clearly shows update progression:\n    - Example: **v3.5.9 \u2192 v3.6.0**\n  - Helps users understand what version they are upgrading from and to\n\n- **User Guidance & Safety Notice**\n  - Includes a **bold warning** advising users not to reopen the system during updates\n  - Reduces risk of interrupted or corrupted updates\n\n### \u2699\ufe0f Improvements\n- **Seamless Update Experience**\n  - Splash screen runs as a separate process and remains visible even after the main app closes\n  - Automatically closes after update completion (~90 seconds max)\n\n- **Smoother Transition**\n  - Added a short delay before the app closes to ensure users see the update screen before exit\n\n### \ud83d\udee0\ufe0f Technical Enhancements\n- Introduced `_show_update_installing_splash()` using **PowerShell WinForms**\n- Improved `_finish()` flow to handle update UI and shutdown timing more gracefully\n- Compatible with both `.py` and compiled `.exe` builds\n\n---\n\n**By ATHStudios IT Development Department**",
+  "published_at": "2026-04-04T10:20:44.773465",
   "published_by": "JOLLIBEE"
 }
